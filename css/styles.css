@@ -347,9 +347,11 @@ footer {
     width: 100%;
 }
 
-footer span {
+footer span a {
 	color: rgb(255, 190, 0);
+	text-decoration: none;
 }
+
 
 @media (max-width: 1350px) {
 	.hero-content h2 {
